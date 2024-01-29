@@ -1,4 +1,4 @@
-![image](https://github.com/TAVE-balak/.github/assets/110277768/9706d267-cc8f-49e3-b9f1-308c622acdbc)<div align="middle">
+<div align="middle">
 <img src="https://github.com/TAVE-balak/.github/blob/main/profile/images/ottify_logo.png" width="200" />
 <h1>OTTify</h1>
 <h3> “이 콘텐츠는 어떤 OTT에서 시청할 수 있을까?” </h3> 
