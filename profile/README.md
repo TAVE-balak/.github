@@ -1,4 +1,4 @@
-<div align="middle">
+![image](https://github.com/TAVE-balak/.github/assets/110277768/9706d267-cc8f-49e3-b9f1-308c622acdbc)<div align="middle">
 <img src="https://github.com/TAVE-balak/.github/blob/main/profile/images/ottify_logo.png" width="200" />
 <h1>OTTify</h1>
 <h3> “이 콘텐츠는 어떤 OTT에서 시청할 수 있을까?” </h3> 
@@ -43,7 +43,12 @@
 ## 🏛 아키텍쳐 
 
 ## 🎨 디자인
-
+![image](https://github.com/TAVE-balak/.github/assets/110277768/23d0bce0-fa15-4281-af88-1e81536029d5)
+![image](https://github.com/TAVE-balak/.github/assets/110277768/ca958dca-197f-4c92-a957-22302f7d88af)
+![image](https://github.com/TAVE-balak/.github/assets/110277768/33475f08-308b-4fc6-9f41-985035dfefee)
+![image](https://github.com/TAVE-balak/.github/assets/110277768/1d9df033-cdb3-486c-9a55-49908ca5f13c)
+![image](https://github.com/TAVE-balak/.github/assets/110277768/555dbc05-4265-491f-875e-f87186c9a09a)
+![image](https://github.com/TAVE-balak/.github/assets/110277768/16715e21-e15e-4ffb-9dda-1ac45fb50a50)
 
 
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/0d1a3af0-370b-436d-b41d-545af4adf856/deploy-status)](https://app.netlify.com/sites/attiess/deploys)--!>
