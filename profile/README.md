@@ -1,15 +1,14 @@
 <div align="middle">
-![poster](/profile/images/ottify_logo.png)
-<img src="https://github.com/TAVE-balak/OTTify-frontend/assets/75518683/7ca4040d-ce90-4351-a000-acb11a07e6d2" width="200" />
+<img src="https://github.com/TAVE-balak/.github/blob/main/profile/images/ottify_logo.png" width="200" />
 <h1>OTTify</h1>
 <h3> “이 콘텐츠는 어떤 OTT에서 시청할 수 있을까?” </h3> 
 <p> 여러 OTT를 돌며 보고 싶은 콘텐츠를 찾아 헤매보신 적 있으신가요? <br> OTTify는 OTT 콘텐츠 통합 검색 및 토론 플랫폼을 제공하는 서비스입니다.</p>
 
-[🗂️ TAVE 12th OTTify 노션 🗂️](https://github.com/TAVE-balak/files)
+[🗂️ TAVE 12th OTTify 노션 🗂️](https://jyjyjy25.notion.site/OTTify-06fab9459fb04da2b54905bf81d4a4a5?pvs=4)
 <br>
 [🎬 TAVE 12th OTTify 시연영상 🎬]()
 <br>
-[📑 TAVE 12th OTTify 발표자료 📑](https://github.com/TAVE-balak/files)
+[📑 TAVE 12th OTTify 발표자료 📑](https://github.com/TAVE-balak/.github/blob/main/profile/files/TAVE_12th_team5.pdf)
 
 
 </div>
